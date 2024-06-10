@@ -180,7 +180,7 @@ input:focus-visible{
     text-align: center;
 }
 
-@media(max-width: 400px){
+@media(max-width: 500px){
   .hero{
     display: flex;
     flex-direction: column;
@@ -206,12 +206,9 @@ input:focus-visible{
     text-align: center;
   }
 
- 
-
-}
-
-@media(max-width:500px){
-    .left-hide{
+ .left-hide{
         width: 80%; 
      }
+
 }
+
